@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.AssemblyInfo.cs
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\скидки\DiscountEngine\bin\Debug\net10.0\DiscountEngine.exe
+C:\Users\user\Desktop\скидки\DiscountEngine\bin\Debug\net10.0\DiscountEngine.deps.json
+C:\Users\user\Desktop\скидки\DiscountEngine\bin\Debug\net10.0\DiscountEngine.runtimeconfig.json
+C:\Users\user\Desktop\скидки\DiscountEngine\bin\Debug\net10.0\DiscountEngine.dll
+C:\Users\user\Desktop\скидки\DiscountEngine\bin\Debug\net10.0\DiscountEngine.pdb
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.dll
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\refint\DiscountEngine.dll
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.pdb
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\DiscountEngine.genruntimeconfig.cache
+C:\Users\user\Desktop\скидки\DiscountEngine\obj\Debug\net10.0\ref\DiscountEngine.dll
